@@ -173,4 +173,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **⭐ Star this repository if it helped you!**
 
-Made with ❤️ by [Your Name](https://github.com/classyid)
+Made with ❤️ by [ClassyID](https://github.com/classyid)
